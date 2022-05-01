@@ -19,3 +19,4 @@ dependencies:
 - twisted==21.2.*
 - pip:
   - tensorflow==2.5.*
+  - keras ==2.2.*
